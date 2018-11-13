@@ -1,5 +1,13 @@
+body {
+  background-color: black;
+  color:white;
+  font-family:Helvetica;
+}
 h1{
   color: red;
   font-family:Helvetica;
+  text-align: center;
+}
+p {
   text-align: center;
 }
